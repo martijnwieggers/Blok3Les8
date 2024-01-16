@@ -7,13 +7,13 @@ List<Robot> Robots = new List<Robot>();
 
 
 //Stap 8: Voeg ook 1 Robot toe waarbij je een nieuwe Robot aanmaakt
-//en vervolgens de methode VraagInformatie() van de het aangemaakte object van de Robot class aanroept.
+//en vervolgens de methode VraagInfo() van de het aangemaakte object van de Robot class aanroept.
 
 foreach (Robot Robot in Robots)
 {
     
-    //Stap 9: Druk van iedere Robot de informatie af door gebruik te maken van de ToonInformatie() methode van ieder Robot.
+    //Stap 9: Druk van iedere Robot de informatie af door gebruik te maken van de ToonInfo() methode van ieder Robot.
 
 }
 
-//Stap 10: 
+//Stap 10: Maak een nieuwe foreach loop waarin je alleen van de actieve robots ToonInfo() aanroept
