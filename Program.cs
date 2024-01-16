@@ -11,6 +11,9 @@ List<Robot> Robots = new List<Robot>();
 
 foreach (Robot Robot in Robots)
 {
+    
     //Stap 9: Druk van iedere Robot de informatie af door gebruik te maken van de ToonInformatie() methode van ieder Robot.
 
 }
+
+//Stap 10: 
